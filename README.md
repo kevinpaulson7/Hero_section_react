@@ -42,7 +42,7 @@ A visually engaging landing page built with **React**, **TypeScript**, **Vite**,
 
 ## Project Structure
 
-landing-page/
+Hero_section/
 │
 ├─ public/ # Static assets
 ├─ src/
@@ -82,7 +82,7 @@ Copy code
 
 ```bash
 git clone https://github.com/kevinpaulson7/Hero_section_react.git
-cd HillValley-landingpage-react
+cd Hero_section
 Install dependencies:
 
 bash
